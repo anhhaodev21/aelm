@@ -8,7 +8,7 @@ from bs4 import BeautifulSoup
 
 def print_info_banner():
     banner = (              
-        "\033[1;39m┌──────────────────────── Info ───────────────────────┐\n"
+        "\033[1;39m┌──────────────────────── Anh Em Legendary Messenger ───────────────────────┐\n"
         "\033[1;33m ➜ \033[1;39mAdmin: Anh Hao - Erik\n"
         "\033[1;33m ➜ \033[1;39mTeam: Anh Em Legendary Messenger\n"
         "\033[1;33m ➜ \033[1;39mChuc Nang Messenger\n"
